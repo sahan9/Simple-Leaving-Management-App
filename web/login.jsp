@@ -25,6 +25,7 @@
         <link href="css/owl.transitions.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
     </head>
+
     <body data-spy="scroll" data-target=".main-nav">
         <%
 //            if there is no current thread and no user loged in
@@ -42,6 +43,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
+			<!-- Nav Section --!>
                         <a class="navbar-brand" href="#"><img src="photos/logo3.png" alt="" class="img-responsive"></a>
                     </div>
                     <div class="collapse navbar-collapse main-nav" id="sept-main-nav">
